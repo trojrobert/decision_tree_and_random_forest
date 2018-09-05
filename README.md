@@ -7,7 +7,9 @@ Testing decision tree and random forest model on the following dataset
 ## Objective 
 ---
 To understand the concept of decision tree and random forest 
-
+## Programming languages used 
++ Python 
++ R
 ## Resourses used 
 [Udemy](https://www.udemy.com/machinelearning/learn/v4/content)
 
